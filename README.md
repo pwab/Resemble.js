@@ -1,3 +1,7 @@
+# ! THIS IS A MINIMAL VERSION TO USE IT AS AN IMAGE COMPARISON TOOL ON THE GO !
+
+---
+
 Resemble.js
 ==========
 
